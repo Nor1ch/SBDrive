@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  Diplom
+
+  Created by Nor1 on 23.11.2022.
+  
+*/
+"Profile.title" = "Профиль";
+"Profile.totalSize" = " гб";
+"Profile.usedSize" = " гб - занято";
+"Profile.freeSize" = " гб - свободно";
+"Profile.published" = "Опубликованные файлы";
+
+"Published.title" = "Опубликованные файлы";
+"Published.empty" = "У вас пока нет опубликованных файлов";
+"Published.refresh" = "Обновить";
+"Published.error" = "Ошибка";
+"Published.errorMessage" = "Проверьте соединение или зайдите через браузер";
+"Published.deletePublishing" = "Убрать публикацию";
+
+
+"Recently.title" = "Недавние";
+"Recently.empty" = "Директория не содержит файлов";
+
+"Files.title" = "Файлы";
+"Files.empty" = "Директория не содержит файлов";
+"Files.refresh" = "Обновить";
+
+"Connection.title" = "Отсутствует подключение к интернету";
+"Connection.check" = "Проверьте подключение к интернету";
+
+"Login.button" = "Войти";
+
+"Onboarding.button" = "Далее";
+"Onboarding.descriprion_1" = "Теперь все ваши документы в одном месте";
+"Onboarding.descriprion_2" = "Доступ к файлам без интернета";
+"Onboarding.descriprion_3" = "Делитесь вашими файлами с другими";
+
+"Sheet.deleteImageWarning" = "Данное изображение будет удалено";
+"Sheet.deleteImage" = "Удалить изображение";
+"Sheet.deleteDoc" = "Удалить документ";
+"Sheet.deleteDocWarning" = "Данный документ будет удален";
+"Sheet.cancel" = "Отмена";
+"Sheet.share" = "Поделиться";
+"Sheet.viaFile" = "Файлом";
+"Sheet.viaLink" = "Ссылкой";
+"Sheet.refresh" = "Обновите страницу";
+"Sheet.ok" = "Ок";
+"Sheet.doExit" = "Выйти";
+"Sheet.exit" = "Выход";
+"Sheet.agree" = "Вы уверены, что хотите выйти?";
+"Sheet.yes" = "Да";
+"Sheet.no" = "Нет";
+
+"Edit.delete" = "Удалить";
+"Edit.share" = "Поделиться";
+"Edit.changeName" = "Переименовать";
+
+"CompliteImage" = "compliteRU";
+

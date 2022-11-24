@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Diplom
+
+  Created by Nor1 on 23.11.2022.
+  
+*/
+"Profile.title" = "Profile";
+"Profile.totalSize" = " gb";
+"Profile.usedSize" = " gb - used";
+"Profile.freeSize" = " gb - free";
+"Profile.published" = "Published files";
+
+"Published.title" = "Published files";
+"Published.empty" = "You don't have any published files yet";
+"Published.refresh" = "Refresh";
+"Published.error" = "Error";
+"Published.errorMessage" = "Check the connection or use browser";
+"Published.deletePublishing" = "Delete the publishing";
+
+"Recently.title" = "Recently";
+"Recently.empty" = "Empty folder";
+
+"Files.title" = "Files";
+"Files.empty" = "Empty directory";
+"Files.refresh" = "Refresh";
+
+"Connection.title" = "Lost internet connection";
+"Connection.check" = "Check your internet connection";
+
+"Login.button" = "Enter";
+
+"Onboarding.button" = "Next";
+"Onboarding.descriprion_1" = "Now all your documents are in one place";
+"Onboarding.descriprion_2" = "Accessing files without internet";
+"Onboarding.descriprion_3" = "Share your documents with others";
+
+"Sheet.deleteImageWarning" = "This image will be removed";
+"Sheet.deleteImage" = "Delete image";
+"Sheet.deleteDoc" = "Delete document";
+"Sheet.deleteDocWarning" = "This document will be removed";
+"Sheet.cancel" = "Cancel";
+"Sheet.share" = "Share";
+"Sheet.viaFile" = "File";
+"Sheet.viaLink" = "Link";
+"Sheet.refresh" = "Refresh the page";
+"Sheet.ok" = "Ok";
+"Sheet.doExit" = "Exit";
+"Sheet.exit" = "Exit";
+"Sheet.agree" = "Are you sure you want to exit?";
+"Sheet.yes" = "Yes";
+"Sheet.no" = "No";
+
+"Edit.delete" = "Delete";
+"Edit.share" = "Share";
+"Edit.changeName" = "Change name";
+
+"CompliteImage" = "compliteEN";
