@@ -24,6 +24,7 @@ SBDrive app for Yandex.Disk
               
 # Установка
 - Вход в приложение через yandexID
+![login](https://github.com/Nor1ch/SBDrive/blob/main/Login.png) ![login](https://github.com/Nor1ch/SBDrive/blob/main/Login.png)
 - Разрешить доступ приложению к яндекс диску
 - Готово
               
