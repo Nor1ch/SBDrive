@@ -21,6 +21,7 @@ SBDrive app for Yandex.Disk
               Умение приложения реагировать на пропажу сети.
               Локализация(Ru,En).
               Исключены "краши".
+              
 ![login](https://github.com/Nor1ch/SBDrive/blob/main/profile.png) ![login](https://github.com/Nor1ch/SBDrive/blob/main/recently.png) ![login](https://github.com/Nor1ch/SBDrive/blob/main/files.png)              
 # Установка
 - Вход в приложение через yandexID
